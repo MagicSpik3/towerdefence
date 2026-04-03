@@ -1,8 +1,4 @@
-Here is a draft README tailored for an A-Level Computer Science NEA. The structure is heavily focused on maintaining a clean separation between the game’s underlying logic and its graphical representation—a crucial architectural choice that will allow both robust unit testing and a clean interface for the future AI agent to interact with. 
-
-***
-
-# Tower Defense AI Environment (NEA Project)
+# Tower Defense AI Environment 
 
 ## Overview
 This project is a simplified, highly deterministic Tower Defense game built specifically as a foundational environment for artificial intelligence development. Rather than focusing on complex graphical animations or physics simulations, the engine prioritizes a clean, accessible game state. The player (or eventually, the AI agent) can place his towers to optimize his defensive strategy against configurable waves of enemies. 
